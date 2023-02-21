@@ -17,11 +17,11 @@ title: Ryan Malani
 description: a place to store my thoughts and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ryanmalani.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: # the GitHub repo name for your project
+github_repo: ryanmalani.github.io # the GitHub repo name for your project
 github_username: ryanmalani
 
 # Optional social link, you can choose from the following options:
-# twitter (default), instagram, medium, or dribbble
+# twitter (default), instagram, medium, or linkedin
 social_link: linkedin
 social_username: ryanmalani
 
